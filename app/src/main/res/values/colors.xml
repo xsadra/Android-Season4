@@ -2,5 +2,12 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#9fa0a3</color>
+
+
+     <!--03 -->
+    <color name="progressTint">#93229e</color>
+    <color name="buttonColor">#ec407a</color>
+    <!--03 -->
+
 </resources>

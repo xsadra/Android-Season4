@@ -4,8 +4,16 @@
     <!-- 01 -->
 
     <!-- 02 -->
-    <string name="E02AndroidLifeCycleActivity">E2AndroidLifeCycleActivity</string>
+    <string name="E02AndroidLifeCycleActivity">E2 Android Life Cycle</string>
     <!-- 02 -->
+
+    <!-- 03 -->
+    <string name="E03AndroidUIControlsActivity">E03 Android UI Controls</string>
+    <string name="sample">Sample</string>
+    <string name="placeholder">Enter you text here...</string>
+    <string name="newName">Hello World!</string>
+    <string name="imgBtnDescription">Img Btn</string>
+    <!-- 03 -->
 
 
 </resources>
