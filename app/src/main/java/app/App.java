@@ -12,6 +12,8 @@ public class App {
 
     public static class main {
         public static final String TAG = "SEASON 4";
+        public static final String FONT_PATH = "fonts/";
+        public static final String FONT_GOUDY_BOOK_LETTER = "GoudyBookletter1911.ttf";
     }
 
     public static void log(String message) {

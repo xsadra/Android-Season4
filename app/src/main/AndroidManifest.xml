@@ -12,18 +12,19 @@
         android:theme="@style/AppTheme">
         <activity android:name=".E01AndroidArchitectureActivity" />
         <activity android:name=".E02AndroidLifeCycleActivity" />
-        <activity android:name=".E03AndroidUIControlsActivity">
+        <activity android:name=".E03AndroidUIControlsActivity"/>
+        <activity
+            android:name=".E04AndroidHexColorsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_e04_android_hex_colors"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".E05AndroidTextViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".E04AndroidHexColorsActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_e04_android_hex_colors"
-            android:theme="@style/FullscreenTheme"></activity>
     </application>
 
 </manifest>

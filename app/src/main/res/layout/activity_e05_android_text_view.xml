@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="at.sadra.apps.season4java.E05AndroidTextViewActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textBody"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/margin"
+                android:text="@string/loremIpsum"
+                android:textSize="@dimen/textSizeLarge"
+                android:lineSpacingExtra="@dimen/lineSpacingExtraLarge"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
