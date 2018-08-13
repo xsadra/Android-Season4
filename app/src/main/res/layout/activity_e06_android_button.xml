@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="at.sadra.apps.season4java.E06AndroidButtonActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:text="@string/firstButton"
+        android:padding="@dimen/Padding"
+        android:textColor="@color/buttonTextColor"
+        android:background="@drawable/drawable_06_button_background"
+        />
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secondButton"
+        android:layout_margin="@dimen/margin"
+        android:foreground="?selectableItemBackgroundBorderless"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:hint="@string/placeholder"
+        android:padding="@dimen/Padding"
+        />
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="@dimen/icon48"
+        android:layout_height="@dimen/icon48"
+        app:srcCompat="@drawable/ic06_camera_black_24dp"
+        />
+
+    <ImageButton
+        android:layout_width="@dimen/icon48"
+        android:layout_height="@dimen/icon48"
+        android:src="@mipmap/ic_launcher"
+        android:contentDescription="@string/E06AndroidButtonActivity"
+        android:background="?selectableItemBackgroundBorderless"/>
+
+</LinearLayout>

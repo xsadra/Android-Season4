@@ -50,4 +50,10 @@
     <string name="E05AndroidTextViewActivity">E05 Android Text View</string>
     <!--05 -->
 
+    <!--06 -->
+    <string name="E06AndroidButtonActivity">E06 Android Button</string>
+    <string name="secondButton">This is a Second Button</string>
+    <string name="firstButton">This is a First Button!</string>
+    <!--06 -->
+
 </resources>

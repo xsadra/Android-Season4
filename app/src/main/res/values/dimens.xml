@@ -6,6 +6,8 @@
     <dimen name="textSizeNormal">18sp</dimen>
     <dimen name="textSizeLarge">24sp</dimen>
     <dimen name="lineSpacingExtraLarge">10dp</dimen>
+    <dimen name="Padding">16dp</dimen>
+    <dimen name="icon48">48dp</dimen>
     <!--05 -->
 
 </resources>
