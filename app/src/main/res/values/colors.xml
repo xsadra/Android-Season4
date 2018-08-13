@@ -5,9 +5,11 @@
     <color name="colorAccent">#9fa0a3</color>
 
 
-     <!--03 -->
+    <!--03 -->
     <color name="progressTint">#93229e</color>
     <color name="buttonColor">#ec407a</color>
+
+    <color name="black_overlay">#66000000</color>
     <!--03 -->
 
 </resources>

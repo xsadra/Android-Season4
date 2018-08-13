@@ -13,6 +13,10 @@
     <string name="placeholder">Enter you text here...</string>
     <string name="newName">Hello World!</string>
     <string name="imgBtnDescription">Img Btn</string>
+
+    <string name="title_activity_e04_android_hex_colors">E04AndroidHexColorsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
     <!-- 03 -->
 
 
