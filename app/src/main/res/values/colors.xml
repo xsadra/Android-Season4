@@ -12,6 +12,7 @@
     <color name="black_overlay">#66000000</color>
     <color name="itemBackground">#123456</color>
     <color name="buttonTextColor">#FFFFFF</color>
+    <color name="colorBlack">#000</color>
     <!--03 -->
 
 </resources>
