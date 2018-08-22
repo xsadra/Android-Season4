@@ -39,7 +39,7 @@
         android:layout_height="@dimen/icon48"
         app:srcCompat="@drawable/ic_cloud_download_black_24dp"
         android:background="?android:selectableItemBackgroundBorderless"
-        tools:targetApi="lollipop" />
+        />
 
     <ImageButton
         android:layout_width="@dimen/icon48"

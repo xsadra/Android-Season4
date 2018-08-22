@@ -54,6 +54,15 @@
     <string name="E06AndroidButtonActivity">E06 Android Button</string>
     <string name="secondButton">This is a Second Button</string>
     <string name="firstButton">This is a First Button!</string>
+    <string name="title_activity_main">MainActivity</string>
     <!--06 -->
+
+
+
+     <!--07 01-->
+    <string name="E07AndroidEventHandling">Event Handling</string>
+    <string name="firstButtonE7">Start new Activity</string>
+    <string name="secondButtonE7">Second Button</string>
+    <!--07 01-->
 
 </resources>

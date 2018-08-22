@@ -13,6 +13,7 @@
     <color name="itemBackground">#123456</color>
     <color name="buttonTextColor">#FFFFFF</color>
     <color name="colorBlack">#000</color>
+    <color name="colorTest">#1a237e</color>
     <!--03 -->
 
 </resources>

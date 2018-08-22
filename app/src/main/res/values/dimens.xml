@@ -9,6 +9,7 @@
     <dimen name="Padding">16dp</dimen>
     <dimen name="icon48">48dp</dimen>
     <dimen name="buttonRadius">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
     <!--05 -->
 
 </resources>
