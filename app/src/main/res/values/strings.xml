@@ -20,9 +20,9 @@
 
     <!-- 04 -->
     <string name="title_activity_e04_android_hex_colors">E04 Android Hex Colors</string>
-    <!--04 -->
+    <!-- 04 -->
 
-    <!--05 -->
+    <!-- 05 -->
     <string name="loremIpsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer
         took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
@@ -48,31 +48,31 @@
         unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f
         </string>
     <string name="E05AndroidTextViewActivity">E05 Android Text View</string>
-    <!--05 -->
+    <!-- 05 -->
 
     <!--06 -->
     <string name="E06AndroidButtonActivity">E06 Android Button</string>
     <string name="secondButton">This is a Second Button</string>
     <string name="firstButton">This is a First Button!</string>
     <string name="title_activity_main">MainActivity</string>
-    <!--06 -->
+    <!-- 06 -->
 
 
-    <!--07 01-->
+    <!-- 07 01-->
     <string name="E07AndroidEventHandling">Event Handling</string>
     <string name="firstButtonE7">Start new Activity</string>
     <string name="secondButtonE7">Second Button</string>
-    <!--07 01-->
+    <!-- 07 01-->
 
-    <!--07 02-->
+    <!-- 07 02-->
     <string name="E07AndroidEventHandling02">Event Handling (2)</string>
     <string name="startButton">Start new Activity</string>
     <string name="finishButton">Finish</string>
     <string name="toggleColor">Toggle Color</string>
     <string name="toggleVisibility">Toggle Visibility</string>
-    <!--07 02-->
+    <!-- 07 02-->
 
-    <!--08 -->
+    <!-- 08 -->
     <string name="E08AndroidEditText">Edit Text</string>
     <string name="personName">Person Name</string>
     <string name="textPassword">Password</string>
@@ -87,6 +87,15 @@
     <string name="autoCompleteTextView">Complete Text View</string>
     <string name="multiAutoCompleteTextView">Multi Auto Complete Text View</string>
     <string name="checkedTextView">Checked Text View</string>
-    <!--08 -->
+    <!-- 08 -->
 
+    <!-- 08-2 -->
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="loginText">Login</string>
+    <string name="username">UserName</string>
+    <string name="shortUserNameError">Username is too short!</string>
+    <string name="shortPasswordError">Password is too short. (6 Characters)</string>
+    <string name="welcomeLogin">Welcome %s</string>
+    <string name="forgetPasswordText">It\'s your problem :))</string>
+    <!-- 08-2 -->
 </resources>
