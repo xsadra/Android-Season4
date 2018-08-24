@@ -98,4 +98,10 @@
     <string name="welcomeLogin">Welcome %s</string>
     <string name="forgetPasswordText">It\'s your problem :))</string>
     <!-- 08-2 -->
+    <!-- 09 -->
+    <string name="E09AndroidImageButton">Image Button</string>
+    <string name="buttonText">Camera</string>
+    <string name="takePhoto">Take Photo...</string>
+    <!-- 09 -->
+
 </resources>
