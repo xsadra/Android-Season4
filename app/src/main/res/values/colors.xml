@@ -3,18 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#9fa0a3</color>
-
-
-    <!--03 -->
     <color name="progressTint">#93229e</color>
     <color name="buttonColor">#ec407a</color>
-
     <color name="black_overlay">#66000000</color>
     <color name="itemBackground">#123456</color>
     <color name="buttonTextColor">#FFFFFF</color>
     <color name="colorBlack">#000</color>
     <color name="colorTest">#1a237e</color>
     <color name="alphaColor">#c8aeb947</color>
-    <!--03 -->
-
+    <color name="textViewSpacer">#FF1E88E5</color>
 </resources>

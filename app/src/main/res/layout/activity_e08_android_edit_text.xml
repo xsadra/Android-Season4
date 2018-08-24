@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".E08AndroidEditText">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/padding20">
+
+
+            <TextView
+                android:text="@string/personName"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/editTextName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/personName"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:text="@string/textPassword"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/editTextPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPassword" />
+
+            <TextView
+                android:text="@string/numberPassword"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/editTextNumberPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="numberPassword" />
+
+            <TextView
+                android:text="@string/textEmailAddress"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/textEmailAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textEmailAddress" />
+
+            <TextView
+                android:text="@string/phone"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="phone" />
+
+            <TextView
+                android:text="@string/textPostalAddress"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/textPostalAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPostalAddress" />
+
+            <TextView
+                android:text="@string/time"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="time" />
+
+            <TextView
+                android:text="@string/date"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="date" />
+
+            <TextView
+                android:text="@string/numberSigned"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/numberSigned"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="numberSigned" />
+
+            <TextView
+                android:text="@string/textMultiLine"
+                style="@style/textViewSpacer" />
+
+            <EditText
+                android:id="@+id/textMultiLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textMultiLine" />
+
+            <TextView
+                android:text="@string/autoCompleteTextView"
+                style="@style/textViewSpacer" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                />
+
+            <TextView
+                android:text="@string/multiAutoCompleteTextView"
+                style="@style/textViewSpacer" />
+
+            <MultiAutoCompleteTextView
+                android:id="@+id/multiAutoCompleteTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <TextView
+                android:text="@string/checkedTextView"
+                style="@style/textViewSpacer" />
+
+            <CheckedTextView
+                android:id="@+id/checkedTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

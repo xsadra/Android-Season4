@@ -72,4 +72,21 @@
     <string name="toggleVisibility">Toggle Visibility</string>
     <!--07 02-->
 
+    <!--08 -->
+    <string name="E08AndroidEditText">Edit Text</string>
+    <string name="personName">Person Name</string>
+    <string name="textPassword">Password</string>
+    <string name="numberPassword">Number Password</string>
+    <string name="phone">Phone</string>
+    <string name="textPostalAddress">Postal Address</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="numberSigned">Number Signed</string>
+    <string name="textEmailAddress">Email Address</string>
+    <string name="textMultiLine">Multi Line</string>
+    <string name="autoCompleteTextView">Complete Text View</string>
+    <string name="multiAutoCompleteTextView">Multi Auto Complete Text View</string>
+    <string name="checkedTextView">Checked Text View</string>
+    <!--08 -->
+
 </resources>
