@@ -20,7 +20,8 @@
             android:theme="@style/FullscreenTheme" />
         <activity android:name=".E05AndroidTextViewActivity" />
         <activity android:name=".E06AndroidButtonActivity" />
-        <activity android:name=".E07AndroidEventHandling01">
+        <activity android:name=".E07AndroidEventHandling01" />
+        <activity android:name=".E07AndroidEventHandling02">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

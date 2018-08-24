@@ -58,11 +58,18 @@
     <!--06 -->
 
 
-
-     <!--07 01-->
+    <!--07 01-->
     <string name="E07AndroidEventHandling">Event Handling</string>
     <string name="firstButtonE7">Start new Activity</string>
     <string name="secondButtonE7">Second Button</string>
     <!--07 01-->
+
+    <!--07 02-->
+    <string name="E07AndroidEventHandling02">Event Handling (2)</string>
+    <string name="startButton">Start new Activity</string>
+    <string name="finishButton">Finish</string>
+    <string name="toggleColor">Toggle Color</string>
+    <string name="toggleVisibility">Toggle Visibility</string>
+    <!--07 02-->
 
 </resources>
