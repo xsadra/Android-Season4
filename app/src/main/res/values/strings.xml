@@ -104,4 +104,19 @@
     <string name="takePhoto">Take Photo...</string>
     <!-- 09 -->
 
+    <!-- 10 -->
+    <string name="E10AndroidCheckBox">Check Box</string>
+    <string name="textChoseLanguage">Chose your favorite languages</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="c">C</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="php">PHP</string>
+    <string name="submit">Submit</string>
+    <string name="result">You Chose this Languages: %s</string>
+    <string name="Spacer">,</string>
+    <string name="noResponse">You didn\'t Chose Any Language...</string>
+
+    <!-- 10 -->
+
 </resources>
