@@ -24,8 +24,9 @@
         <activity android:name=".E07AndroidEventHandling02" />
         <activity android:name=".E08AndroidEditText" />
         <activity android:name=".E08AndroidEditText2" />
-        <activity android:name=".E09AndroidImageButton"/>
-        <activity android:name=".E10AndroidCheckBox">
+        <activity android:name=".E09AndroidImageButton" />
+        <activity android:name=".E10AndroidCheckBox"/>
+        <activity android:name=".E11AndroidRadioButton">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

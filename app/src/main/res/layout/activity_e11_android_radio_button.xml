@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E11AndroidRadioButton">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/choseSex"
+            android:layout_margin="@dimen/margin"
+            />
+<RadioGroup
+    android:id="@+id/radioSex"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RadioButton
+        android:id="@+id/male"
+        android:text="@string/male"
+        style="@style/radioButton" />
+
+    <RadioButton
+        android:id="@+id/female"
+        style="@style/radioButton"
+        android:text="@string/female" />
+
+    <RadioButton
+        android:id="@+id/other"
+        style="@style/radioButton"
+        android:text="@string/other" />
+</RadioGroup>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/margin48"
+            android:layout_marginVertical="@dimen/margin"
+            android:text="@string/submit"
+            android:drawableRight="@drawable/ic_check_black_24dp"
+            android:drawableTint="@color/colorTest"/>
+
+    </LinearLayout>
+</ScrollView>

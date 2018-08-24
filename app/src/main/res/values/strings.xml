@@ -116,7 +116,17 @@
     <string name="result">You Chose this Languages: %s</string>
     <string name="Spacer">,</string>
     <string name="noResponse">You didn\'t Chose Any Language...</string>
-
     <!-- 10 -->
 
+    <!-- 11 -->
+    <string name="E11AndroidRadioButton">Radio Button</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="choseSex">Select your Sex</string>
+    <string name="sexMaleMessage">Your chose Male.</string>
+    <string name="sexFemaleMessage">Your chose Female.</string>
+    <string name="sexOtherMessage">Your chose Other.</string>
+    <string name="sexNoChoseMessage">You didn\'t chose any...</string>
+    <!-- 11 -->
 </resources>
