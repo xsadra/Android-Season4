@@ -83,7 +83,7 @@ public class E07AndroidEventHandling02 extends AppCompatActivity implements View
                 break;
             case R.id.toggleVisibility:
                 App.toast("--Toggle Visibility Button Clicked--");
-App.log("## Toggle Start");
+                App.log("## Toggle Start");
                 if (buttonsParent.getVisibility() == View.VISIBLE) {
 //                    buttonsParent.setVisibility(View.GONE);
                     Animation animation = AnimationUtils.loadAnimation(this, android.R.anim.slide_out_right);
