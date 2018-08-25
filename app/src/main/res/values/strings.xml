@@ -140,4 +140,13 @@
     <string name="isOff">OFF</string>
     <string name="newLine">\n</string>
     <!-- 12 -->
+
+    <!-- 13 -->
+    <string name="E13AndroidRatingBar">Rating Bar</string>
+    <string name="ratingBarQuestion">Do you like me?</string>
+    <string name="rateMessage">you chose %s as Rate</string>
+
+    <!-- 13 -->
+
+
 </resources>
