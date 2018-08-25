@@ -46,7 +46,7 @@ public class E10AndroidCheckBox extends AppCompatActivity implements View.OnClic
         for (CheckBox item : checkBoxes) {
             if (item.isChecked()) {
                 if (langs.length() > 1) {
-                    langs += getString(R.string.Spacer);
+                    langs += getString(R.string.spacer);
                 }
                 langs += item.getText().toString();
             }

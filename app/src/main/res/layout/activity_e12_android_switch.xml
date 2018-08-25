@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E12AndroidSwitch">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding10">
+
+        <Switch
+            android:id="@+id/onOff"
+            style="@style/switchStyle"
+            android:text="@string/textSwitch" />
+
+        <Switch
+            android:id="@+id/nightMode"
+            style="@style/switchStyle"
+            android:text="@string/textSwitchNight" />
+
+        <Switch
+            android:id="@+id/backgroundWorking"
+            style="@style/switchStyle"
+            android:text="@string/backgroundWorking" />
+
+        <Button
+            android:id="@+id/submit"
+            android:text="@string/submit"
+            style="@style/submit" />
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding10"
+            android:lineSpacingExtra="@dimen/_20"
+            />
+
+    </LinearLayout>
+</ScrollView>

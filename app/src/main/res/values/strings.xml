@@ -4,11 +4,11 @@
     <!-- 01 -->
 
     <!-- 02 -->
-    <string name="E02AndroidLifeCycleActivity">E2 Android Life Cycle</string>
+    <string name="E02AndroidLifeCycleActivity">Life Cycle</string>
     <!-- 02 -->
 
     <!-- 03 -->
-    <string name="E03AndroidUIControlsActivity">E03 Android UI Controls</string>
+    <string name="E03AndroidUIControlsActivity">UI Controls</string>
     <string name="sample">Sample</string>
     <string name="placeholder">Enter you text here...</string>
     <string name="newName">Hello World!</string>
@@ -19,7 +19,7 @@
     <!-- 03 -->
 
     <!-- 04 -->
-    <string name="title_activity_e04_android_hex_colors">E04 Android Hex Colors</string>
+    <string name="title_activity_e04_android_hex_colors">Hex Colors</string>
     <!-- 04 -->
 
     <!-- 05 -->
@@ -47,11 +47,11 @@
         and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
         unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f
         </string>
-    <string name="E05AndroidTextViewActivity">E05 Android Text View</string>
+    <string name="E05AndroidTextViewActivity">Text View</string>
     <!-- 05 -->
 
     <!--06 -->
-    <string name="E06AndroidButtonActivity">E06 Android Button</string>
+    <string name="E06AndroidButtonActivity">Button</string>
     <string name="secondButton">This is a Second Button</string>
     <string name="firstButton">This is a First Button!</string>
     <string name="title_activity_main">MainActivity</string>
@@ -114,8 +114,8 @@
     <string name="php">PHP</string>
     <string name="submit">Submit</string>
     <string name="result">You Chose this Languages: %s</string>
-    <string name="Spacer">,</string>
-    <string name="noResponse">You didn\'t Chose Any Language...</string>
+    <string name="spacer">, </string>
+    <string name="noResponse">You didn\'t Chose Any Language…</string>
     <!-- 10 -->
 
     <!-- 11 -->
@@ -127,6 +127,17 @@
     <string name="sexMaleMessage">Your chose Male.</string>
     <string name="sexFemaleMessage">Your chose Female.</string>
     <string name="sexOtherMessage">Your chose Other.</string>
-    <string name="sexNoChoseMessage">You didn\'t chose any...</string>
+    <string name="sexNoChoseMessage">You didn\'t chose any…</string>
     <!-- 11 -->
+
+    <!-- 12 -->
+    <string name="E12AndroidSwitch">Switch</string>
+    <string name="textSwitch">On/Off</string>
+    <string name="textSwitchNight">Night Mode</string>
+    <string name="backgroundWorking">Background Working</string>
+    <string name="onOff">Root mode</string>
+    <string name="isOn">ON</string>
+    <string name="isOff">OFF</string>
+    <string name="newLine">\n</string>
+    <!-- 12 -->
 </resources>

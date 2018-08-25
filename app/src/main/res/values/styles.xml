@@ -50,5 +50,22 @@
         <item name="android:layout_marginLeft">@dimen/margin</item>
     </style>
 
+    <style name="switchStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/margin</item>
+        <item name="android:padding">@dimen/padding10</item>
+    </style>
+
+    <style name="submit">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginHorizontal">@dimen/margin48</item>
+        <item name="android:layout_marginVertical">@dimen/margin</item>
+        <item name="android:drawableRight">@drawable/ic_check_black_24dp</item>
+        <item name="android:drawableTint">@color/blue</item>
+    </style>
+
 
 </resources>
