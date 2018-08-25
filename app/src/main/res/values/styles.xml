@@ -67,5 +67,12 @@
         <item name="android:drawableTint">@color/blue</item>
     </style>
 
+    <style name="progressBarTitle">
+        <item name="android:padding">@dimen/_20</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">?selectableItemBackground</item>
+    </style>
+
 
 </resources>

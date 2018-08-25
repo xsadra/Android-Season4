@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E14AndroidProgressBar">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/circleProgressBarTitle"
+            style="@style/progressBarTitle"
+            android:text="@string/progressBarTitle" />
+
+        <ProgressBar
+            android:id="@+id/circleProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+
+        <TextView
+            android:id="@+id/horizontalProgressBarTitle"
+            style="@style/progressBarTitle"
+            android:text="@string/horizontalProgressBarTitle" />
+
+        <ProgressBar
+            android:id="@+id/horizontalProgressBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10"
+            />
+
+
+        <TextView
+            android:id="@+id/indeterminateProgressBarTitle"
+            style="@style/progressBarTitle"
+            android:text="@string/indeterminateProgressBarTitle" />
+
+        <ProgressBar
+            android:id="@+id/indeterminateProgressBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10"
+            android:indeterminate="true"
+            />
+
+        <TextView
+            android:id="@+id/customIndeterminateProgressBarTitle"
+            style="@style/progressBarTitle"
+            android:text="@string/customIndeterminateProgressBarTitle" />
+
+        <ProgressBar
+            android:id="@+id/customIndeterminateProgressBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10"
+            android:indeterminate="true"
+            android:indeterminateDrawable="@drawable/drawable_14_custom_progress_bar"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

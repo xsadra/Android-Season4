@@ -145,8 +145,14 @@
     <string name="E13AndroidRatingBar">Rating Bar</string>
     <string name="ratingBarQuestion">Do you like me?</string>
     <string name="rateMessage">you chose %s as Rate</string>
-
     <!-- 13 -->
 
+    <!-- 14 -->
+    <string name="E14AndroidProgressBar">Progress Bar</string>
+    <string name="progressBarTitle">Circle ProgressBar</string>
+    <string name="horizontalProgressBarTitle">Horizontal ProgressBar Title</string>
+    <string name="indeterminateProgressBarTitle">Indeterminate ProgressBar Title</string>
+    <string name="customIndeterminateProgressBarTitle">Custom Indeterminate ProgressBar Title</string>
+    <!-- 14 -->
 
 </resources>
