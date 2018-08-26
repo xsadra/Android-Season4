@@ -155,4 +155,12 @@
     <string name="customIndeterminateProgressBarTitle">Custom Indeterminate ProgressBar Title</string>
     <!-- 14 -->
 
+    <!-- 15 -->
+    <string name="E15AndroidTimePicker">Time Picker</string>
+    <string name="selectTimePicker">Please select Time</string>
+    <string name="timeSpacer">:</string>
+    <string name="timeConfirm">Tap to confirm: %s</string>
+
+    <!-- 15 -->
+
 </resources>

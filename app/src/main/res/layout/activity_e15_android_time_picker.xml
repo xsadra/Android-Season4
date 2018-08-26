@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E15AndroidTimePicker">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:padding="@dimen/_20">
+
+            <TextView
+                android:id="@+id/timeText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10"
+                android:hint="@string/selectTimePicker"
+                android:layout_marginBottom="@dimen/_20"
+                android:textSize="@dimen/_20sp"
+                android:background="?selectableItemBackground"/>
+
+        <TimePicker
+            android:id="@+id/timePicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+
+        </TimePicker>
+
+        <TextView
+            android:id="@+id/confirmTimeText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_20"
+            android:layout_marginTop="@dimen/_20"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="@dimen/_30sp"
+            android:visibility="gone"
+            android:background="@color/colorAccent"/>
+    </LinearLayout>
+
+</ScrollView>

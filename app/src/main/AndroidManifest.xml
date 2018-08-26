@@ -28,8 +28,9 @@
         <activity android:name=".E10AndroidCheckBox" />
         <activity android:name=".E11AndroidRadioButton" />
         <activity android:name=".E12AndroidSwitch" />
-        <activity android:name=".E13AndroidRatingBar"/>
-        <activity android:name=".E14AndroidProgressBar">
+        <activity android:name=".E13AndroidRatingBar" />
+        <activity android:name=".E14AndroidProgressBar"/>
+        <activity android:name=".E15AndroidTimePicker">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

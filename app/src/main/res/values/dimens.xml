@@ -14,5 +14,7 @@
     <dimen name="margin48">48dp</dimen>
     <dimen name="_10">10dp</dimen>
     <dimen name="_20">20dp</dimen>
+    <dimen name="_30sp">30sp</dimen>
+    <dimen name="_20sp">20sp</dimen>
 
 </resources>
