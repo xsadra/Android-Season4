@@ -33,8 +33,9 @@
         <activity android:name=".E15AndroidTimePicker" />
         <activity android:name=".E16AndroidDatePicker" />
         <activity android:name=".E17AndroidToggleButton" />
-        <activity android:name=".E18AndroidSeekBar"/>
-        <activity android:name=".E19AndroidContactBadge">
+        <activity android:name=".E18AndroidSeekBar" />
+        <activity android:name=".E19AndroidContactBadge"/>
+        <activity android:name=".E20AndroidLayouts">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

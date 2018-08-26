@@ -181,10 +181,17 @@
     <!-- 18 -->
     <string name="E18AndroidSeekBar">Seek Bar</string>
     <string name="seekBarAgeText">Enter your age: </string>
-    <string name="E19AndroidContactBadge">Contact Badge</string>
     <!-- 18 -->
 
     <!-- 19 -->
+    <string name="E19AndroidContactBadge">Contact Badge</string>
+    <string name="E20AndroidLayouts">Layouts</string>
+    <string name="sendButton">Send</string>
+    <string name="messageChat">Message</string>
     <!-- 19 -->
+
+    <!-- 20 -->
+    <!-- 20 -->
+
 
 </resources>
