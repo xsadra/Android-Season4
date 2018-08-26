@@ -160,7 +160,12 @@
     <string name="selectTimePicker">Please select Time</string>
     <string name="timeSpacer">:</string>
     <string name="timeConfirm">Tap to confirm: %s</string>
-
     <!-- 15 -->
+
+    <!-- 16 -->
+    <string name="E16AndroidDatePicker">Date Picker</string>
+    <string name="selectDatePicker">Please select Date</string>
+    <string name="dateSpacer">.</string>
+    <!-- 16 -->
 
 </resources>
