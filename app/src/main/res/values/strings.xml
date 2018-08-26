@@ -178,4 +178,9 @@
     <string name="nightModeDeactivate">Night Mode Deactivated</string>
     <!-- 17 -->
 
+    <!-- 18 -->
+    <string name="E18AndroidSeekBar">Seek Bar</string>
+    <string name="seekBarAgeText">Enter your age: </string>
+    <!-- 18 -->
+
 </resources>

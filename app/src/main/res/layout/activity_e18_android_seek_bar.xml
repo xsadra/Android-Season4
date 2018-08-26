@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E18AndroidSeekBar">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/_20">
+    <TextView
+        android:id="@+id/seekBarAgeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/seekBarAgeText"
+        android:layout_marginVertical="@dimen/_20"
+        />
+
+    <SeekBar
+        android:id="@+id/seekBarAge"
+        android:min="1"
+        style="@style/seekBar" />
+
+    <SeekBar
+        android:id="@+id/seekBarTest"
+        style="@style/seekBar"
+        android:max="5"/>
+
+    <SeekBar
+        android:id="@+id/seekBarTestB"
+        android:thumb="@drawable/ic_favorite_black_24dp"
+        android:thumbTint="@color/red"
+        android:progressTint="@color/red"
+        style="@style/seekBar" />
+
+
+
+</LinearLayout>
+</ScrollView>

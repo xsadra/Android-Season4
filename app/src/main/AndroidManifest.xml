@@ -31,8 +31,9 @@
         <activity android:name=".E13AndroidRatingBar" />
         <activity android:name=".E14AndroidProgressBar" />
         <activity android:name=".E15AndroidTimePicker" />
-        <activity android:name=".E16AndroidDatePicker"/>
-        <activity android:name=".E17AndroidToggleButton">
+        <activity android:name=".E16AndroidDatePicker" />
+        <activity android:name=".E17AndroidToggleButton"/>
+        <activity android:name=".E18AndroidSeekBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
