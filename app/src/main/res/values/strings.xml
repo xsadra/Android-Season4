@@ -1,6 +1,6 @@
 <resources>
     <!-- 01 -->
-    <string name="app_name">Season4java</string>
+    <string name="app_name">Android Season 4 with Java</string>
     <!-- 01 -->
 
     <!-- 02 -->
@@ -167,5 +167,15 @@
     <string name="selectDatePicker">Please select Date</string>
     <string name="dateSpacer">.</string>
     <!-- 16 -->
+
+    <!-- 17 -->
+    <string name="E17AndroidToggleButton">Toggle Button</string>
+    <string name="toggleButton">Toggle Button</string>
+    <string name="nightMode">Night Mode</string>
+    <string name="dayMode">Day Mode</string>
+    <string name="toggleButtonTitle">Activate Night MODE</string>
+    <string name="nightModeActive">Night Mode Activated</string>
+    <string name="nightModeDeactivate">Night Mode Deactivated</string>
+    <!-- 17 -->
 
 </resources>

@@ -14,4 +14,5 @@
     <color name="textViewSpacer">#FF1E88E5</color>
     <color name="blue">#6200ea</color>
     <color name="white">#f1f1f1</color>
+    <color name="darkBackground">#212121</color>
 </resources>
