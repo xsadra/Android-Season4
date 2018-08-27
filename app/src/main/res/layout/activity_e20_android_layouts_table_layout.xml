@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".E12AndroidSwitch"
+    android:shrinkColumns="0">
+
+    <TableRow android:padding="@dimen/_20">
+        <TextView
+            android:gravity="center"
+            android:text="@string/fullName"/>
+        <TextView
+            android:gravity="center"
+            android:text="@string/address"/>
+    </TableRow>
+
+
+    <TableRow>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#33F0F0F0"
+            android:layout_span="2"
+            android:paddingHorizontal="@dimen/_10"
+            />
+
+    </TableRow>
+
+
+    <TableRow android:padding="@dimen/_20">
+        <TextView
+            android:gravity="center"
+            android:text="Sadra B"/>
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:maxWidth="200dp"
+            android:maxLines="10"
+            android:text="@string/myAddress"/>
+    </TableRow>
+</TableLayout>

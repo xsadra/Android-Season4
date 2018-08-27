@@ -188,6 +188,10 @@
     <string name="E20AndroidLayouts">Layouts</string>
     <string name="sendButton">Send</string>
     <string name="messageChat">Message</string>
+    <string name="myAddress">Heiligenstädter Lände 15A, 1190 Wien, Austria</string>
+    <string name="fullName">Full Name</string>
+    <string name="address">Address</string>
+    <string name="myName">Sadra B</string>
     <!-- 19 -->
 
     <!-- 20 -->

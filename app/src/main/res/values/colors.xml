@@ -17,4 +17,5 @@
     <color name="darkBackground">#212121</color>
     <color name="red">#F00</color>
     <color name="grayCustom">#c5c5c5</color>
+    <color name="line">#33F0F0F0</color>
 </resources>
