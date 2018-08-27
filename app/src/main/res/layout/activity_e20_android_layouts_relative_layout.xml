@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    tools:context=".E20AndroidLayouts">
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="85dp"
+        android:layout_marginTop="158dp"
+        android:text="@string/toggleButton"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="85dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_marginBottom="-158dp"
+        android:layout_toStartOf="@+id/button3"
+        android:text="@string/personName"
+        android:layout_toLeftOf="@+id/button3" />
+</RelativeLayout>
