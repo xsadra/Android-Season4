@@ -16,7 +16,7 @@ public class E20AndroidLayouts extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_e20_android_layouts_relative_layout);
+        setContentView(R.layout.activity_e20_android_layouts_frame_layout);
         setTitle(getString(R.string.E20AndroidLayouts));
         init();
     }
