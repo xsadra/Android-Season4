@@ -185,6 +185,9 @@
 
     <!-- 19 -->
     <string name="E19AndroidContactBadge">Contact Badge</string>
+    <!-- 19 -->
+
+    <!-- 20 -->
     <string name="E20AndroidLayouts">Layouts</string>
     <string name="sendButton">Send</string>
     <string name="messageChat">Message</string>
@@ -192,11 +195,17 @@
     <string name="fullName">Full Name</string>
     <string name="address">Address</string>
     <string name="myName">Sadra B</string>
+    <!-- 20 -->
+
+    <!-- 21 -->
     <string name="E21AndroidFragment">Fragment</string>
-    <!-- 19 -->
+    <!-- 21 -->
 
-    <!-- 20 -->
-    <!-- 20 -->
-
+    <!-- 22 -->
+    <string name="E22AndroidScrollView">Scroll View</string>
+    <string name="sampleText">This is sample</string>
+    <string name="serif_monospace">serif-monospace</string>
+    <string name="goToTop">^</string>
+    <!-- 22 -->
 
 </resources>
