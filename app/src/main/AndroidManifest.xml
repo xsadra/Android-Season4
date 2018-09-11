@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="at.sadra.apps.season4java">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name="app.Application"
         android:allowBackup="true"
@@ -37,7 +38,8 @@
         <activity android:name=".E19AndroidContactBadge" />
         <activity android:name=".E20AndroidLayouts" />
         <activity android:name=".E21AndroidFragment" />
-        <activity android:name=".E22AndroidScrollView">
+        <activity android:name=".E22AndroidScrollView" />
+        <activity android:name=".E23AndroidWebView" android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

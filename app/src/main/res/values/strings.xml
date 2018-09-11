@@ -208,4 +208,9 @@
     <string name="goToTop">^</string>
     <!-- 22 -->
 
+    <!-- 23 -->
+    <string name="E23AndroidWebView">Web View</string>
+    <string name="urlHere">URL …</string>
+    <!-- 23 -->
+
 </resources>
