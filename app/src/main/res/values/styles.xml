@@ -88,5 +88,12 @@
         <item name="android:layout_marginVertical">@dimen/_10</item>
     </style>
 
+    <style name="videoViewButtons">
+        <item name="android:tint">@color/colorBlack</item>
+        <item name="android:layout_width">@dimen/_50</item>
+        <item name="android:layout_height">@dimen/_50</item>
+        <item name="android:layout_marginHorizontal">@dimen/_10</item>
+    </style>
+
 
 </resources>

@@ -213,4 +213,10 @@
     <string name="urlHere">URL …</string>
     <!-- 23 -->
 
+    <!-- 24 -->
+    <string name="E24AndroidVideoView">Video View</string>
+    <string name="grantAccess">Please allow Read permission in App setting</string>
+    <string name="permissionDenied">Permission Denied</string>
+    <!-- 24 -->
+
 </resources>

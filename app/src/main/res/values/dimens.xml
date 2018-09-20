@@ -20,5 +20,6 @@
     <dimen name="_3">3dp</dimen>
     <dimen name="_6">6dp</dimen>
     <dimen name="_220">220dp</dimen>
+    <dimen name="_50">50dp</dimen>
 
 </resources>
