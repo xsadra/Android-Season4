@@ -43,10 +43,10 @@
         <activity android:name=".E22AndroidScrollView" />
         <activity android:name=".E23AndroidWebView"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".E24AndroidVideoView"
+        <activity android:name=".E24AndroidVideoView"
             android:screenOrientation="fullSensor"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".E25AndroidSpinner">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -219,4 +219,17 @@
     <string name="permissionDenied">Permission Denied</string>
     <!-- 24 -->
 
+    <!-- 25 -->
+    <string name="E25AndroidSpinner">Spinner</string>
+    <string name="resultLang">%s is Selected.</string>
+    <string name="selectRequire">select something...</string>
+    <string-array name="programmingLanguages">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>Kotlin</item>
+        <item>PHP</item>
+    </string-array>
+    <!-- 25 -->
+
 </resources>
