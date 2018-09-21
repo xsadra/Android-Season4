@@ -10,7 +10,7 @@
     <!-- 03 -->
     <string name="E03AndroidUIControlsActivity">UI Controls</string>
     <string name="sample">Sample</string>
-    <string name="placeholder">Enter you text here...</string>
+    <string name="placeholder">Enter you text here …</string>
     <string name="newName">Hello World!</string>
     <string name="imgBtnDescription">Img Btn</string>
 
@@ -101,7 +101,7 @@
     <!-- 09 -->
     <string name="E09AndroidImageButton">Image Button</string>
     <string name="buttonText">Camera</string>
-    <string name="takePhoto">Take Photo...</string>
+    <string name="takePhoto">Take Photo …</string>
     <!-- 09 -->
 
     <!-- 10 -->
@@ -222,7 +222,7 @@
     <!-- 25 -->
     <string name="E25AndroidSpinner">Spinner</string>
     <string name="resultLang">%s is Selected.</string>
-    <string name="selectRequire">select something...</string>
+    <string name="selectRequire">select something…</string>
     <string-array name="programmingLanguages">
         <item>Java</item>
         <item>Python</item>
@@ -231,5 +231,25 @@
         <item>PHP</item>
     </string-array>
     <!-- 25 -->
+
+    <!-- 26 -->
+    <string name="E26AndroidNavigation">Navigation</string>
+    <string name="navigateToButton">Navigate to Android Button</string>
+    <string name="navigate">Navigate</string>
+    <string name="enterData">Enter some Data</string>
+    <string name="E26AndroidNavigationTarget">Target</string>
+    <string name="intentData">we received [%s] from other Activity</string>
+    <string name="noContent">There is No Data!</string>
+    <string name="morning">Goog morning</string>
+    <string name="afternoon">Good Afternon</string>
+    <string name="night">Good Night</string>
+    <string-array name="navigationExamples">
+        <item>Select Activity</item>
+        <item>E25AndroidSpinner</item>
+        <item>E24AndroidVideoView</item>
+        <item>E23AndroidWebView</item>
+        <item>E22AndroidScrollView</item>
+    </string-array>
+    <!-- 26 -->
 
 </resources>

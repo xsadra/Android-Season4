@@ -41,18 +41,22 @@
         <activity android:name=".E20AndroidLayouts" />
         <activity android:name=".E21AndroidFragment" />
         <activity android:name=".E22AndroidScrollView" />
-        <activity android:name=".E23AndroidWebView"
+        <activity
+            android:name=".E23AndroidWebView"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".E24AndroidVideoView"
+        <activity
+            android:name=".E24AndroidVideoView"
             android:screenOrientation="fullSensor"
-            android:theme="@style/AppTheme.NoActionBar"/>
-        <activity android:name=".E25AndroidSpinner">
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".E25AndroidSpinner" />
+        <activity android:name=".E26AndroidNavigation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".E26AndroidNavigationTarget"></activity>
     </application>
 
 </manifest>

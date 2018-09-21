@@ -1,6 +1,5 @@
 package app;
 
-import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
@@ -11,9 +10,11 @@ import android.widget.Toast;
 public class App {
 
     public static class main {
-        public static final String TAG = "SEASON 4";
+        private static final String TAG = "SEASON 4";
         public static final String FONT_PATH = "fonts/";
         public static final String FONT_GOUDY_BOOK_LETTER = "GoudyBookletter1911.ttf";
+
+        public static final String ACTIVITY_KEY = "ACTIVITY_KEY";
     }
 
     public static void log(String message) {

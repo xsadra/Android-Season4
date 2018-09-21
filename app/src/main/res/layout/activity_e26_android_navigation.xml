@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".E26AndroidNavigation"
+    android:orientation="vertical"
+    android:padding="@dimen/_10">
+
+
+    <Spinner
+        android:id="@+id/navigation"
+        android:layout_margin="@dimen/_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/navigationExamples"/>
+
+    <Button
+        android:layout_margin="@dimen/_10"
+        android:id="@+id/navigate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/navigate"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.75dp"
+        android:background="@color/black_overlay"
+        android:layout_margin="@dimen/_50"/>
+
+    <EditText
+        android:id="@+id/data"
+        android:hint="@string/enterData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit"
+        android:text="@string/submit"/>
+
+</LinearLayout>
