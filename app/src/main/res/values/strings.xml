@@ -252,4 +252,39 @@
     </string-array>
     <!-- 26 -->
 
+    <!-- 27 -->
+    <string name="E27AndroidListView">List View[Season 4]</string>
+    <string name="channelUrl">https://t.me/kotlincoders</string>
+    <string-array name="season4">
+        <item>E01AndroidArchitectureActivity</item>
+        <item>E02AndroidLifeCycleActivity</item>
+        <item>E03AndroidUIControlsActivity</item>
+        <item>E04AndroidHexColorsActivity</item>
+        <item>E05AndroidTextViewActivity</item>
+        <item>E06AndroidButtonActivity</item>
+        <item>E07AndroidEventHandling01</item>
+        <item>E07AndroidEventHandling02</item>
+        <item>E08AndroidEditText</item>
+        <item>E08AndroidEditText2</item>
+        <item>E09AndroidImageButton</item>
+        <item>E10AndroidCheckBox</item>
+        <item>E11AndroidRadioButton</item>
+        <item>E12AndroidSwitch</item>
+        <item>E13AndroidRatingBar</item>
+        <item>E14AndroidProgressBar</item>
+        <item>E15AndroidTimePicker</item>
+        <item>E16AndroidDatePicker</item>
+        <item>E17AndroidToggleButton</item>
+        <item>E18AndroidSeekBar</item>
+        <item>E19AndroidContactBadge</item>
+        <item>E20AndroidLayouts</item>
+        <item>E21AndroidFragment</item>
+        <item>E22AndroidScrollView</item>
+        <item>E23AndroidWebView</item>
+        <item>E24AndroidVideoView</item>
+        <item>E25AndroidSpinner</item>
+        <item>E26AndroidNavigation</item>
+    </string-array>
+    <!-- 27 -->
+
 </resources>

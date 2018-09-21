@@ -49,14 +49,18 @@
             android:screenOrientation="fullSensor"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".E25AndroidSpinner" />
-        <activity android:name=".E26AndroidNavigation">
+        <activity android:name=".E26AndroidNavigation" />
+        <activity android:name=".E26AndroidNavigationTarget" />
+        <activity android:name=".E27AndroidListView" />
+        <activity
+            android:name=".E27AndroidSplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".E26AndroidNavigationTarget"></activity>
     </application>
 
 </manifest>
